@@ -8,8 +8,10 @@ This game is developed in Unity 2019.4.16f LTS.
 ## Scripts
 
 - Simple character controller implementation (WASD + camera controlled by the mouse)
-- First script implemented to switch on/off the lights (press 1)
-- Interactable objects will display a prompt on screen (not interactable)
+- First script implemented to switch on/off the lights (press 9)
+- Second script implemented to exit the game (press 0).
+- Interactable objects will display a prompt on screen to press a button to do a task.
+- on pressing 1,2,3,4 you can do the task.
 
 ![med_bay_waiting_hall](https://user-images.githubusercontent.com/58021571/171220957-42bd1d8d-63db-4f8e-9838-b959dc17c0ba.png)
 ![electric_room](https://user-images.githubusercontent.com/58021571/171220985-3d55af20-c516-462b-a540-ba4314f61144.png)
